@@ -1,0 +1,11 @@
+/* Card.css */
+.image-container {
+    position: relative;
+    
+}
+
+.image-container:hover + .text-content {
+    transform: translateY(-120px);
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+}

@@ -1,0 +1,363 @@
+[
+    {
+
+     
+      "categoryName": "Wall Decor",
+      "categoryImage": "wallDecor.jpg",
+      "products": [
+        {"productname": "Buddha Face", "productImage": "Buddha Face.png", "Material": "Marble Dust","productCode":"PS002","size":"10.5*5*5","Price":400},
+        {"productname": "Dali Ullu", "productImage": "Dali Ullu.png", "Material": "Marble Dust","productCode":"PS003","size":"5*8.5*2.5","Price":425},
+        {"productname": "Cheetah", "productImage": "Chetah.png", "Material": "Marble Dust","productCode":"PS004","size":"10.5*8.5*5","Price":1050},
+        {"productname": "Tree Ganesh", "productImage": "Tree Ganesha.png", "Material": "Marble Dust","productCode":"PS005","size":"11.5*7*4","Price":775},
+        {"productname": "Shikari", "productImage": "Shikari.png", "Material": "Marble Dust","productCode":"PS006","size":"7*11*4","Price":875},
+        {"productname": "Double Horse", "productImage": "Double Horse.png", "Material": "Marble Dust","productCode":"PS007","size":"11*8*3","Price":850},
+        {"productname": "3 Sitting Buddha", "productImage": "3 Sitting Buddha.png", "Material": "Resin","productCode":"PS008","size":"3.5*6.5*2","Price":290},
+        {"productname": "Appu Ganesh", "productImage": "Appu Ganesha.png", "Material": "Resin","productCode":"PS010","size":"10.5*7*4","Price":750},
+        {"productname": "Basuri Krishna", "productImage": "Basuri Krishna.jpeg", "Material": "Resin","productCode":"PS011","size":"11.5*6*4","Price":800},
+        {"productname": "Musical monk set of 4", "productImage": "Musical monk set of 4.jpeg", "Material": "Resin","productCode":"PS013","size":"6*4*4","Price":1200}
+      ]
+    },
+    {
+        "categoryName": "Table Top",
+        "categoryImage": "tabletop.jpeg",
+        "products": [
+          
+             
+              {
+                "productname": "Gandhi Bache Set of 3",
+                "productImage":"Gandhi Bache.jpeg",
+                "Material": "Resin",
+                "productCode": "PR014",
+                "size": "5*3.5*3",
+                "Price": 525
+              },
+              {
+                "productname": "Pan Budha Medium",
+                "productImage":"Pan Budha Medium.jpeg",
+                "Material": "Resin",
+                "productCode": "PR015",
+                "size": "9.5*5.5*4",
+                "Price": 425
+              },
+              {
+                "productname": "Pan Budha Big",
+                "productImage":"Pan Budha Big.jpeg",
+                "Material": "Resin",
+                "productCode": "PR016",
+                "size": "12*7*5",
+                "Price": 700
+              },
+              {
+                "productname": "Family",
+                "productImage":"Family.png",
+                "Material": "Resin",
+                "productCode": "PR018",
+                "size": "12*6.5*3.5",
+                "Price": 900
+              },
+              {
+                "productname": "Pan Budha Big",
+                "Material": "Resin",
+                "productCode": "PR016",
+                "size": "12*7*5",
+                "Price": 700,
+                "productImage":"Pan Budha Big.jpeg"
+              },
+              {
+                "productname": "Family",
+                "Material": "Resin",
+                "productCode": "PR018",
+                "size": "12*6.5*3.5",
+                "Price": 900,
+                "productImage":"Family.png"
+              },
+              {
+                "productname": "Angle Hand",
+                "Material": "Resin",
+                "productCode": "PR019",
+                "size": "10*6*2.5",
+                "Price": 1100,
+                "productImage":"Angle Hands.jpeg"
+              },
+              {
+                "productname": "Owl Small Set of 2",
+                "Material": "Resin",
+                "productCode": "PR020",
+                "size": "4*4*3",
+                "Price": 475,
+                "productImage":"Owl Set Small.png"
+              },
+              {
+                "productname": "Diamond Bird",
+                "Material": "Resin",
+                "productCode": "PR022",
+                "size": "6.5*10.5*3",
+                "Price": 700,
+                "productImage":"Diamond Bird.jpeg"
+              },
+              {
+                "productname": "Yoga set of 3",
+                "Material": "Resin",
+                "productCode": "PR023",
+                "size": "12*10*3",
+                "Price": 1400,
+                "productImage":"Yoga Set Of 3.png"
+              },
+              {
+                "productname": "Basket Man",
+                "Material": "Resin",
+                "productCode": "PR024",
+                "size": "10*5.5*5",
+                "Price": 1150,
+                "productImage":"Basket Men.png"
+              },
+              {
+                "productname": "3 Face Big",
+                "Material": "Resin",
+                "productCode": "PR025",
+                "size": "12.5*10.5*4",
+                "Price": 900
+              },
+              {
+                "productname": "Owl Big",
+                "Material": "Resin",
+                "productCode": "PR026",
+                "size": "12*5.5*5.5",
+                "Price": 850,
+                "productImage":"Owl Big.jpeg"
+              },
+              {
+                "productname": "Men face Small",
+                "Material": "Resin",
+                "productCode": "PR027",
+                "size": "6*3*2",
+                "Price": 600,
+                "productImage":"Men Face Big.png"
+              },
+              {
+                "productname": "Diamond Gandhi Face",
+                "Material": "Resin",
+                "productCode": "PR028",
+                "size": "6.5*4*4",
+                "Price": 1100,
+                "productImage":"Diamond Gandhi Face.png"
+              }
+          
+          
+        ]
+      },
+    {
+        "categoryName": "Gifting",
+        "categoryImage": "gifting.jpg",
+        "products": [
+            {
+                "productname": "Radha Krishna Big",
+                "Material": "Resin",
+                "productCode": "PR029",
+                "size": "16*16*4.5",
+                "Price": 1800,
+                "productImage":"Radha Krishna Big.png"
+              },
+              {
+                "productname": "Krishna Face",
+                "Material": "Resin",
+                "productCode": "PR030",
+                "size": "18.5*11.5*5.5",
+                "Price": 1750,
+                "productImage":"Krishna Face Big.png"
+              },
+              {
+                "productname": "Ganesha New Big",
+                "Material": "Resin",
+                "productCode": "PR032",
+                "size": "10*10.5*6",
+                "Price": 950,
+                "productImage":""
+              },
+              {
+                "productname": "3 Rabbit",
+                "Material": "Resin",
+                "productCode": "PR034",
+                "size": "3.5*4.5*2",
+                "Price": 275,
+                "productImage":""
+              },
+              {
+                "productname": "Little Buddha Set of 4",
+                "Material": "Resin",
+                "productCode": "PR035",
+                "Price": 140,
+                "productImage":"Little Buddha Set Of 4.png"
+              },
+              {
+                "productname": "Dulha Ganesh",
+                "Material": "Wood & Stone",
+                "productCode": "SF001",
+                "size": "11*9*1.5",
+                "Price": 850,
+                "productImage":"Dulha Ganesha Wall.png"
+              },
+              {
+                "productname": "Radha Krishna Wooden",
+                "Material": "Wood & Stone",
+                "productCode": "SF002",
+                "size": "14*12*1.5",
+                "Price": 1900,
+                "productImage":"Radha Krishna Wooden.png"
+              },
+              {
+                "productname": "Peacock Ganesh",
+                "Material": "Wood & Stone",
+                "productCode": "SF003",
+                "size": "12.5*10.5*1",
+                "Price": 1200,
+                "productImage":"Peacock Ganesha Wall.png"
+              },
+              {
+                "productname": "Mandir Ganesh",
+                "Material": "Wood & Stone",
+                "productCode": "SF004",
+                "size": "12.5*10*1",
+                "Price": 1350,
+                "productImage":"Mandir Ganesha Wall.png"
+              },
+              {
+                "productname": "Peacock leaf Ganesh",
+                "Material": "Wood & Stone",
+                "productCode": "SF005",
+                "size": "12.5*10.5*1.5",
+                "Price": 1150,
+                "productImage":"Peacock Leaf Ganesha Wall.png"
+              },
+              {
+                "productname": "Kalash Ganesh ji Long",
+                "Material": "Wood & Stone",
+                "productCode": "SF006",
+                "size": "16.5*7*1",
+                "Price": 750,
+                "productImage":"Kalash Ganesha Long.png"
+              }
+        ]
+      },
+    {
+        "categoryName": "Ideal Product",
+        "categoryImage": "IdealProduct.jpg",
+        "products": [
+         
+          {
+            "productname": "Ganesh Vistle work",
+            "Material": "Wood & Stone",
+            "productCode": "SF007",
+            "size": "11.5*13.5*1.5",
+            "Price": 1050,
+            "productImage":"Ganesha Vistle Work wall.png"
+          },
+          {
+            "productname": "Rajisthani Wall painting",
+            "Material": "Wood & Stone",
+            "productCode": "SF008",
+            "size": "14*19*1.5",
+            "Price": 2100,
+            "productImage":"Rajasthani Wall Painting.png"
+          },
+          {
+            "productname": "Buddha Head wall",
+            "Material": "Wood & Stone",
+            "productCode": "SF009",
+            "size": "13.5*12.5*2",
+            "Price": 1250,
+            "productImage":"Buddha Head Wall.png"
+          },  {
+            "productname": "Gandhi Bache Set of 3",
+            "productImage":"Gandhi Bache.jpeg",
+            "Material": "Resin",
+            "productCode": "PR014",
+            "size": "5*3.5*3",
+            "Price": 525
+          },
+          {
+            "productname": "Pan Budha Medium",
+            "productImage":"Pan Budha Medium.jpeg",
+            "Material": "Resin",
+            "productCode": "PR015",
+            "size": "9.5*5.5*4",
+            "Price": 425
+          },
+          {
+            "productname": "Pan Budha Big",
+            "productImage":"Pan Budha Big.jpeg",
+            "Material": "Resin",
+            "productCode": "PR016",
+            "size": "12*7*5",
+            "Price": 700
+          },
+          {
+            "productname": "Family",
+            "productImage":"Family.png",
+            "Material": "Resin",
+            "productCode": "PR018",
+            "size": "12*6.5*3.5",
+            "Price": 900
+          },
+          {
+            "productname": "Pan Budha Big",
+            "Material": "Resin",
+            "productCode": "PR016",
+            "size": "12*7*5",
+            "Price": 700,
+            "productImage":"Pan Budha Big.jpeg"
+          },
+          {
+            "productname": "Family",
+            "Material": "Resin",
+            "productCode": "PR018",
+            "size": "12*6.5*3.5",
+            "Price": 900,
+            "productImage":"Family.png"
+          },
+          {
+            "productname": "Angle Hand",
+            "Material": "Resin",
+            "productCode": "PR019",
+            "size": "10*6*2.5",
+            "Price": 1100,
+            "productImage":"Angle Hands.jpeg"
+          },
+          {
+            "productname": "Owl Small Set of 2",
+            "Material": "Resin",
+            "productCode": "PR020",
+            "size": "4*4*3",
+            "Price": 475,
+            "productImage":"Owl Set Small.png"
+          },
+          {
+            "productname": "Diamond Bird",
+            "Material": "Resin",
+            "productCode": "PR022",
+            "size": "6.5*10.5*3",
+            "Price": 700,
+            "productImage":"Diamond Bird.jpeg"
+          },
+          {
+            "productname": "Yoga set of 3",
+            "Material": "Resin",
+            "productCode": "PR023",
+            "size": "12*10*3",
+            "Price": 1400,
+            "productImage":"Yoga Set Of 3.png"
+          },
+          {
+            "productname": "Basket Man",
+            "Material": "Resin",
+            "productCode": "PR024",
+            "size": "10*5.5*5",
+            "Price": 1150,
+            "productImage":"Basket Men.png"
+          }
+          
+        ]
+      }
+  ]
+  
+
